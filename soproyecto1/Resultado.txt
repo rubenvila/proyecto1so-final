@@ -1,0 +1,9 @@
+#Simulation Data
+#PROCESS
+3816, hola, 3, false, 3, 1, 1, 0, LISTO
+2487, buenas, 3, false, 4, 1, 1, 0, LISTO
+
+#CONFIG
+Cycle Duration: 5
+Numero de Procesadores Activos: 2
+Politica de Planeo: FCFS - Primero en llegar, primero en ser atendido
